@@ -16,6 +16,7 @@ following is a list of existing third-party exporters:
    * [AWS CloudWatch exporter](https://github.com/prometheus/cloudwatch_exporter)
    * [StatsD bridge](https://github.com/prometheus/statsd_bridge)
    * [JMX exporter](https://github.com/prometheus/jmx_exporter)
+   * [Collectd exporter](https://github.com/prometheus/collectd_exporter)
    * [Hystrix metrics publisher](https://github.com/prometheus/hystrix)
 
 The [JMX exporter](https://github.com/prometheus/jmx_exporter) can export from a
